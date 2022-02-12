@@ -1,7 +1,6 @@
 ## Welcome to AL-QIYAMAH
 
 
-AL-QIYAMAH IS MY DREAM
 <h1>Privacy Policy for Al-Qiyamah</h1>
 
 <p>At Al-Qiyamah, accessible from https://faizhamza76.github.io/AL-QIYAMAH/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Al-Qiyamah and how we use it.</p>
